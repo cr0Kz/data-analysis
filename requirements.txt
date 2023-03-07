@@ -1,0 +1,6 @@
+black
+pandas
+ipykernel
+ipywidgets
+plotly
+ipinfo
